@@ -1,0 +1,1 @@
+print("Gumana ba?")
